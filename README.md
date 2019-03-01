@@ -1,3 +1,5 @@
+**IT'S MY LOCAL FORK OF THE ORIGINAL REPOSITORY. IF YOU ARE INTERESTED IN THE MOST UP-TO-DATE VERSION, PLEASE VISIT https://github.com/isayev/ReLeaSE**
+
 # ReLeaSE (Reinforcement Learning for Structural Evolution)
 Deep Reinforcement Learning for de-novo Drug Design
 
